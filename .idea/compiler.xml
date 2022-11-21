@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aplication" target="17" />
+      <module name="aplication (1) (ua.ithillel.62aaf5f907905d280bc0679e.server)" target="17" />
+      <module name="Clone" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
